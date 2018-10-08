@@ -12,5 +12,6 @@ Python Version: 3.7.0
 - [X] Tests Passing 
 
 **Iteration 2**  
-- Started (10/8/18)
+- Started (10/8/18 - 2:30pm)
+- Completed (10/8/18 - 4:30pm)
 - [X] Tests Passing
