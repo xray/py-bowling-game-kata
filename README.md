@@ -13,4 +13,4 @@ Python Version: 3.7.0
 
 **Iteration 2**  
 - Started (10/8/18)
-- [ ] Tests Passing
+- [X] Tests Passing
